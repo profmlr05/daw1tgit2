@@ -16,8 +16,8 @@
    16  git add EjemploFichero1.txt
    17  git status
    18  git commit
-   19  git config --global user.email "mlazaroaat@gmail.com"
-   20  git config --global user.name "profmlr05"
+   19  git config --global user.email "correo electrónico"
+   20  git config --global user.name "usuario"
    21  git commit
    22  git status
    23  git commit
