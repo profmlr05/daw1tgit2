@@ -10,7 +10,7 @@
    10  git status
    11  git help
    12  git config user.name "profmlr05"
-   13  git config user.gmail "mlazaroaat@gmail.com"
+   13  git config user.gmail "@gmail.com"
    14  git status
    15  git add
    16  git add EjemploFichero1.txt
